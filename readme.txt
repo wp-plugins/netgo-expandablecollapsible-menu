@@ -9,7 +9,7 @@ Requires at least: 3.5.0
 Stable tag: 1.0
 
 == Description ==
-Adds a widget that makes your 'all page list' or 'menu'  with slide animation expandable/collapsible effect.
+Adds a widget that makes your 'all page list' or 'menu'  with slide  expandable and collapsible effect.
 
 == Screenshots ==
 
