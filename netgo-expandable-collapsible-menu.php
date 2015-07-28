@@ -2,7 +2,7 @@
 /*
 Plugin Name: NetGo Expandable/Collapsible Menu
 Plugin URI: http://www.netattingo.com/
-Description: NetGo Expandable/Collapsible Menu plugin adds a widget that makes your 'all page list' or 'menu'  with slide animation expandable/collapsible effect.
+Description: NetGo Expandable/Collapsible Menu plugin adds a widget that makes your 'all page list' or 'menu'  with slide expandable and collapsible effect.
 Author: NetAttingo Technologies
 Version: 1.0.0
 Author URI: http://www.netattingo.com/
