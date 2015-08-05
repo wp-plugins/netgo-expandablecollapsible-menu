@@ -28,6 +28,7 @@ This is first version no known notices yet
 == Installation ==
 1. Upload the folder "netgo-expandable-collapsible-menu" to "/wp-content/plugins/"
 2. Activate the plugin through the "Plugins" menu in WordPress
-3. Go to Appearance > Widgets and you will find the Netgo Expandable/Collapsible Menu there, here you can select option form 
-drop down to show with Netgo Expandable/Collapsible Menu 
-4. Call that widget on your template file
+3. Go to WP-admin -> Appearance -> Widgets and you will find the 'Netgo Expandable/Collapsible Menu' widget there.
+4. Put 'Netgo Expandable/Collapsible Menu' in widget area.
+5. Here you can select option form drop down to show with Netgo Expandable/Collapsible Menu 
+5. Call that widget on your template file
