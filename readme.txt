@@ -1,4 +1,4 @@
-=== NetGo Expandable/Collapsible Menu ===
+=== Expandable/Collapsible Menu ===
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=netattingomails@gmail.com&item_name=NetGo+Expandable+Collapsible+Navigation
 Tags: page, pages, tree, cms, tree, page tree, navigation, expand, collapse, navigation tree, list pages, sidebar, widget
 Contributors: NetAttingo Technologies
