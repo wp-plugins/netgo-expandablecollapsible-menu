@@ -11,6 +11,13 @@ Stable tag: 1.0
 == Description ==
 Adds a widget that makes your 'all page list' or 'menu'  with slide  expandable and collapsible effect.
 
+#### Plugins Features:
+* Simple and nice collapsible/expandable menu with your 'all pages' and all your created 'Menu'
+* Widget based
+* Widget has option to select which  'Menu' to collapsible/expandable
+* Easly customizable
+* Looks cool! 
+
 == Screenshots ==
 
 1. NetGo Expandable/Collapsible Navigation widget configuration.
